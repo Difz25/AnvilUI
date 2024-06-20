@@ -5,4 +5,5 @@ branches:
 projects:
   AnvilUI:
     path: ""
+    icon: "icon.png"
 ...
