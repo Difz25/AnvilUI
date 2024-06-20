@@ -1,0 +1,15 @@
+name: AnvilUI
+main: Difz25\AUI\Form
+version: 1.0.0
+api: 5.0.0
+author: Difz25
+
+commands:
+  anvil:
+    description: AnvilUI by Difz25
+    permission: anvilui.use
+
+permissions:
+  anvilui.use:
+    description: AnvilUI by Difz25
+    default: true
